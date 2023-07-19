@@ -167,6 +167,7 @@ class AddNewTransactionsScreen extends StatelessWidget {
     //     value: value.name,
     //     child: Text(value.name),
     //   );
+
     // }).toList();
 
     for (var person in model) {
